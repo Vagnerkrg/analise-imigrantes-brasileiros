@@ -1,3 +1,5 @@
+![Versão](https://img.shields.io/badge/version-1.0-blue)
+
 
 # Análise de Imigrantes Brasileiros no Canadá
 
