@@ -1,4 +1,8 @@
+
 # Análise de Imigrantes Brasileiros no Canadá
+
+![Python](https://shields.io)
+![Jupyter Notebook](https://shields.io)
 
 Este projeto tem como objetivo analisar o perfil e a evolução dos imigrantes brasileiros no Canadá, utilizando dados históricos e técnicas de análise exploratória em Python.
 
